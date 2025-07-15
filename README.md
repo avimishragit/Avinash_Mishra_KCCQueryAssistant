@@ -1,10 +1,3 @@
-# Avinash_Mishra_KCCQueryAssistant
-  
-
-Let me know if you want any specific details (such as project purpose, requirements, or usage examples) included. Otherwise, here’s a general template you can adapt:
-
----
-
 # KCC Query Assistant
 
 KCC Query Assistant is an intelligent assistant built to help users interact with and analyse data using Jupyter Notebooks and Python scripts. This project leverages data science tools and automation to streamline data querying, visualisation, and reporting.

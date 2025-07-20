@@ -37,18 +37,6 @@ KCC Query Assistant is an intelligent assistant built to help users interact wit
   ```
 - Follow the instructions in each notebook for data querying, analysis, and visualisation.
 
-## Code Structure
-
-```
-Avinash_Mishra_KCCQueryAssistant/
-│
-├── notebooks/                 # Jupyter Notebooks for various tasks
-├── scripts/                   # Python scripts for automation
-├── data/                      # Sample datasets (if any)
-├── README.md                  # This file
-├── requirements.txt           # Python dependencies
-└── ...                        # Other files and folders
-```
 
 ## Contributing
 
